@@ -1,3 +1,5 @@
+This project was created to learn [How to Deploy and host a ReactJS app](https://aws.amazon.com/ru/getting-started/tutorials/deploy-react-app-cicd-amplify) with [AWS Amplify Console](https://aws.amazon.com/amplify/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
